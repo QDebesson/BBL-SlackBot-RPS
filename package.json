@@ -1,0 +1,20 @@
+{
+  "name": "bbl-slackbot-rps",
+  "version": "1.0.0",
+  "description": "Project for the RxJS BBL applicated in a Slack-bot (Rock/Paper/Scissors game)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "QDebesson",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^3.9.0",
+    "babel": "^6.23.0",
+    "rx": "^4.1.0",
+    "express": "latest",
+    "morgan": "latest",
+    "cookie-parser": "latest",
+    "body-parser": "latest"
+  }
+}
